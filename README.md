@@ -1,1 +1,1 @@
-# Java Practice
+# Java College Projects
